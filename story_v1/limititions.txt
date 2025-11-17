@@ -1,0 +1,5 @@
+Hard to track what changed between versions.
+
+Too many duplicate files → takes more space.
+
+No history of who made changes and why.
