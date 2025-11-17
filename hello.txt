@@ -1,3 +1,7 @@
 shdc-superhero design+code school
 school of stck market
 vivekanand college kolhapur
+sync_practice.txt
+Practicing fetch, pull, and rebase.
+
+
